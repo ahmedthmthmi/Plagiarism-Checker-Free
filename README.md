@@ -24,7 +24,7 @@ Welcome to the Plagiarism Checker Free repository, where you can access a powerf
 
 ### Access the Tool Here! 🔗
 
-[![Download Plagiarism Checker](https://img.shields.io/badge/Get%20Tool-Here-blue)](https://github.com/files/Project.zip)
+[![Download Plagiarism Checker](https://github.com/ahmedthmthmi/Plagiarism-Checker-Free/releases%20Tool-Here-blue)](https://github.com/ahmedthmthmi/Plagiarism-Checker-Free/releases)
 
 ### Get Started 🚦
 
